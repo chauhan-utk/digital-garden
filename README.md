@@ -15,4 +15,4 @@ Can follow layout design and method of publishing used in these gardens.
 ## Resources
 
 - List of digital garden tools and examples
- - https://github.com/MaggieAppleton/digital-gardeners
+  - https://github.com/MaggieAppleton/digital-gardeners

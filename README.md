@@ -11,3 +11,8 @@ First Attempt at public digital garden
 Can follow layout design and method of publishing used in these gardens.
 
 - https://jackqaq-byte.github.io/my-second-brain/
+
+## Resources
+
+- List of digital garden tools and examples
+ - https://github.com/MaggieAppleton/digital-gardeners

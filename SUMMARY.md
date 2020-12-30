@@ -4,6 +4,7 @@
 
 ## Programming
 
+* [Tools - Windows](programming/tools-windows.md)
 * [C\#](programming/c.md)
 
 ## Artificial Intelligence

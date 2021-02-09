@@ -16,4 +16,5 @@
 ## Fleeting
 
 * [Theories on Evolution of Technology](fleeting/theories-on-evolution-of-technology.md)
+* [Task Management](fleeting/task-management.md)
 

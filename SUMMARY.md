@@ -8,6 +8,8 @@
   * [Markdown](programming/tools-windows/markdown.md)
 * [C\#](programming/c.md)
 * [Git](programming/git.md)
+* [Web](programming/web.md)
+* [Linux](programming/linux.md)
 
 ## Artificial Intelligence
 

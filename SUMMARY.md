@@ -16,5 +16,6 @@
 ## Fleeting
 
 * [Theories on Evolution of Technology](fleeting/theories-on-evolution-of-technology.md)
+* [Programming Related Famous Principles](fleeting/programming-related-famous-principles.md)
 * [Task Management](fleeting/task-management.md)
 
